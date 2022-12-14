@@ -119,9 +119,10 @@ h2{
 }
 
 .highscore{
-  text-align: center;
+  /* text-align: center; */
   margin-top: 23%;
   font-size: 2rem;
+  margin-left: 50%;
 }
 
 /* Eind Game */
