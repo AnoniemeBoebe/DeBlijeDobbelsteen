@@ -105,6 +105,10 @@ h2{
   font-size: 3rem;
 }
 
+p{
+  text-align: center;
+  font-size: large;
+}
 /* Eind Text */
 
 /* Begin Game */
