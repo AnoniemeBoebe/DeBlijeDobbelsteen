@@ -113,7 +113,7 @@ h2{
   border: 8px solid black;
   height: 50%;
   width: 50%;
-  position: absolute;
+  position: absolute; 
   margin-left: 25%;
   margin-top: 13%;
 }
