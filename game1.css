@@ -105,6 +105,10 @@ h2{
   font-size: 3rem;
 }
 
+/* Eind Text */
+
+/* Begin Game */
+
 .game-border{
   border: 8px solid black;
   height: 50%;
@@ -120,12 +124,13 @@ h2{
   font-size: 2rem;
 }
 
-/* eind text*/
+/* Eind Game */
 
 .foto{   
   width: 20%;
 }
 
+/* Begin Contact */
 .email{
  border: 3px solid black;
  font-weight: bold;
@@ -147,3 +152,4 @@ h2{
   margin-left: 42%;
   font-size: 1.2rem;
 }
+/* Eind Contact */
