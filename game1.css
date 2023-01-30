@@ -113,15 +113,11 @@ p{
 
 /* Begin Game */
 
-.game-border{
-  border: 8px solid black;
-  height: 50%;
-  width: 50%;
-  position: absolute; 
-  margin-left: 25%;
-  margin-top: 13%;
+.fotogame1{
+  width: 30%;
+  margin-left: 30%;
+  margin-top: -10%;
 }
-
 .highscore{
   text-align: center;
   margin-top: 23%;
